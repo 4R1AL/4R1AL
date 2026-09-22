@@ -1,8 +1,8 @@
-<div align="center">
 
-<img src="https://placehold.co/1000x250/0d1117/ffffff?text=4R1AL" width="100%">
+<img width="735" height="413" alt="image" src="https://github.com/user-attachments/assets/bc70b800-f478-4870-baf2-57800978baa2" />
 
-# Hi 👋, I'm 4R1AL
+
+# Hi 👋, I'm Samrat
 
 ### FULL-STACK DEVELOPER
 
