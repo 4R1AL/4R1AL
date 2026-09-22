@@ -8,7 +8,7 @@
 # Hi, I am Samrat
 
 
-### Frontend Development Student 
+### Web/Web Application Student 
 
 
 Just Code Ngl
@@ -25,9 +25,6 @@ Just Code Ngl
 
 </div>
 
-<table>
-<tr>
-<td width="55%" valign="top">
 
 I'm **4R1AL**, a developer currently focused on becoming a full-stack developer.
 
@@ -47,15 +44,6 @@ My goal is simple:
 
 > **Build. Learn. Improve. Repeat.**
 
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://placehold.co/400x400/111111/ffffff?text=YOUR+ARTWORK" width="100%">
-
-</td>
-</tr>
-</table>
 
 ---
 
