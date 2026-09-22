@@ -1,5 +1,5 @@
 
-<img width="100%" height="413" alt="image" src="https://github.com/user-attachments/assets/bc70b800-f478-4870-baf2-57800978baa2" />
+<img width="100%" height="423" alt="image" src="https://github.com/user-attachments/assets/bc70b800-f478-4870-baf2-57800978baa2" />
 
 
 # Hi 👋, I'm Samrat
