@@ -1,6 +1,151 @@
-<img width="735" height="413" alt="image" src="https://github.com/user-attachments/assets/9af39df8-fd0c-4b06-8c23-77d147dbfcba" />
+<div align="center">
 
+<img src="https://placehold.co/1000x250/0d1117/ffffff?text=4R1AL" width="100%">
 
+# Hi 👋, I'm 4R1AL
 
-## Hi there 👋
+### FULL-STACK DEVELOPER
 
+Building modern websites, applications and digital experiences.
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 About Me
+
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+I'm **4R1AL**, a developer currently focused on becoming a full-stack developer.
+
+I enjoy building things from scratch, experimenting with new technologies, and turning ideas into real projects.
+
+Currently learning:
+
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Node.js
+- REST APIs
+- Databases
+
+My goal is simple:
+
+> **Build. Learn. Improve. Repeat.**
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://placehold.co/400x400/111111/ffffff?text=YOUR+ARTWORK" width="100%">
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ What I'm Building
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌿 Garden of Words
+
+A cinematic movie-inspired website focused on visual design, responsive layouts and a polished user experience.
+
+**HTML · CSS · JavaScript**
+
+</td>
+
+<td width="50%">
+
+### 🎓 Result Management System
+
+A web application for students and administrators to manage and view academic results.
+
+**React · Node.js · Database**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎮 Minecraft Systems
+
+Custom gameplay systems and server features built for Minecraft.
+
+**Minecraft · Skript · Server Development**
+
+</td>
+
+<td width="50%">
+
+### 💻 Portfolio
+
+My personal developer portfolio showcasing my work, skills and projects.
+
+**HTML · CSS · JavaScript**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📚 Currently Learning
+
+<br>
+
+`JavaScript` → `TypeScript` → `React` → `Next.js`
+
+`Node.js` → `REST APIs` → `Databases`
+
+<br>
+
+**Learning by building real projects.**
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=4R1AL&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4R1AL&theme=dark&hide_border=true&background=0d1117">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect
+
+[GitHub](https://github.com/4R1AL) • [LinkedIn](#) • [Email](#)
+
+<br><br>
+
+### Let's build something meaningful.
+
+</div>
