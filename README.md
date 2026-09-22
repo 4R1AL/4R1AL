@@ -7,7 +7,6 @@
 
 # Hi, I am Samrat
 
---- 
 
 ### Frontend Development Student 
 
