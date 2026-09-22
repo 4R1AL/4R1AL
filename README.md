@@ -54,60 +54,6 @@ My goal is simple:
 
 <div align="center">
 
-## 🛠️ What I'm Building
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌿 Garden of Words
-
-A cinematic movie-inspired website focused on visual design, responsive layouts and a polished user experience.
-
-**HTML · CSS · JavaScript**
-
-</td>
-
-<td width="50%">
-
-### 🎓 Result Management System
-
-A web application for students and administrators to manage and view academic results.
-
-**React · Node.js · Database**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎮 Minecraft Systems
-
-Custom gameplay systems and server features built for Minecraft.
-
-**Minecraft · Skript · Server Development**
-
-</td>
-
-<td width="50%">
-
-### 💻 Portfolio
-
-My personal developer portfolio showcasing my work, skills and projects.
-
-**HTML · CSS · JavaScript**
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
 ## 📚 Currently Learning
 
 <br>
@@ -119,20 +65,6 @@ My personal developer portfolio showcasing my work, skills and projects.
 <br>
 
 **Learning by building real projects.**
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=4R1AL&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4R1AL&theme=dark&hide_border=true&background=0d1117">
 
 </div>
 
