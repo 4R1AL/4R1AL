@@ -4,10 +4,11 @@
 <div align="center">
   
 # Hi 👋, I'm Samrat
+--- 
 
-### FULL-STACK DEVELOPER
+### Frontend Development Student 
 
-Building modern websites, applications and digital experiences.
+Just Code Ngl
 
 </div>
 
