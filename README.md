@@ -17,12 +17,11 @@ Just Code Ngl
 
 </div>
 
----
+-
 
 <div align="center">
 
 ## 📚 Currently Learning
-
 <br>
 
 `JavaScript` → `TypeScript` → `React` → `Next.js`
