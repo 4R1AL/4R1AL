@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0c774fbf-1873-41bb-b0e2-b6f9d3314ec0" />
-" alt="Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/0c774fbf-1873-41bb-b0e2-b6f9d3314ec0" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm Samrat</h1>
