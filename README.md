@@ -16,7 +16,7 @@
 
 ---
 
-## 🟧 About Me
+## 🟪 About Me
 
 I am a student passionate about building things for the web.
 
@@ -26,7 +26,7 @@ I'm currently learning full-stack web development alongside **Python**, **Java**
 
 ---
 
-## 🟧 My Daily Driver
+## 🟪 My Daily Driver
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apple-macOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000&color=333333" alt="macOS" height="35" />&nbsp;&nbsp;&nbsp;
@@ -39,7 +39,7 @@ I'm currently learning full-stack web development alongside **Python**, **Java**
 
 ---
 
-## 🟧 Tech Stack
+## 🟪 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,php" alt="Languages" />
@@ -55,7 +55,7 @@ I'm currently learning full-stack web development alongside **Python**, **Java**
 
 ---
 
-## 🟧 Analytics
+## 🟪 Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=4R1AL&theme=radical&hide_border=true&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96" alt="GitHub Streak" height="180" />
