@@ -59,6 +59,15 @@
 
 ---
 
+## 🖥️ Daily Drivers
+
+| Setup | Device | OS |
+|:-----:|--------|-----|
+| 💻 Primary | MacBook M2 Air | ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) |
+| 🐧 Secondary | Windows Laptop | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) |
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
