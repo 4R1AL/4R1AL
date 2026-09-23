@@ -61,7 +61,7 @@ I'm currently learning full-stack web development alongside **Python**, **Java**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=4R1AL&theme=radical&hide_border=true&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96" alt="GitHub Streak" height="180" />
 </p>
 
-## ✍️ Random Dev Quote
+## 🟪 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
