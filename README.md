@@ -5,7 +5,7 @@
 <h1 align="center">Hey there 👋, I'm Samrat</h1>
 
 <p align="center">
-  <em>Learning Full-Stack Developer · Currently Freelancing · Open to collaboration</em>
+  <em>Learning Full-Stack Developement · Currently Freelancing</em>
 </p>
 
 <p align="center">
