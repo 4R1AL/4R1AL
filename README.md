@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently learning full stack devlopment along side python java and data base<br>
+I’m currently learning full-stack web development alongside Python, Java, and databases.<br>
 
 
 ## 🌐 Socials:
