@@ -60,21 +60,6 @@ I'm currently learning full-stack web development alongside **Python**, **Java**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4R1AL&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&icon_color=f8d866&text_color=c9d1d9" alt="GitHub Stats" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4R1AL&theme=radical&hide_border=true&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96" alt="GitHub Streak" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4R1AL&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9" alt="Top Languages" height="180" />
-</p>
-
----
-
-## 🟧 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4R1AL&theme=redical&hide_border=true&bg_color=0d1117&color=ff6e96&line=ff6e96&point=f8d866" alt="Contribution Graph" width="100%" />
-</p>
-
 ---
 
 ## ✍️ Random Dev Quote
