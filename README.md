@@ -54,11 +54,18 @@ As a student, I am actively exploring and practicing with the following technolo
 
 ---
 
-## 🟪 Experience & Projects
+## 🟪 Experience
 
-- **MCNP Network (Minecraft Nepal Network)** - Administrator, Developer, and Discord Moderator for a non-profit gaming group.
-- **Volunteer** - Social service camp in Sindhupalchok, helping with school cleaning and donations.
-- **Projects** - Personal Portfolio Website, "Garden Of Words" replica, and currently building the Nameless School Web Template.
+- 🏕️ **Volunteer** — Participated in a volunteer social service camp in Sindhupalchok, helping with initiatives such as cleaning schools, organizing donations, and getting students involved in various activities.
+- 🎮 **Administration, Development & Discord Moderation** — Worked for MCNP Network (Minecraft Nepal Network), a Nepal-based non-profit group hosting video games and community-driven game events.
+
+---
+
+## 🟪 Projects
+
+- 🏫 **Nameless School Web Template** *(Currently working on)* — HTML, CSS, JavaScript, TypeScript, MySQL, Bash, Git.
+- 🌸 **Replica of Anime Movie "Garden Of Words"** — A fan-made movie synopsis using HTML and CSS only (Git for deployment).
+- 💻 **Personal Portfolio Website** — HTML, CSS, JavaScript, Git.
 
 ---
 
