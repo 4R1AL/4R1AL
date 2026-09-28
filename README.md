@@ -27,7 +27,8 @@ I am a student currently learning full-stack development and visual arts, specif
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apple-macOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000&color=333333" alt="macOS" height="35" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1793D1&color=0d4f73" alt="Arch Linux" height="35" />
+  <img src="https://img.shields.io/badge/Linux_Mint-87C514?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" height="35" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" height="35" />
 </p>
 
 <p align="center">
