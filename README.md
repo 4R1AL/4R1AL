@@ -5,7 +5,7 @@
 <h1 align="center">Hey there 👋, I'm Samrat</h1>
 
 <p align="center">
-  <em>Learning Full-Stack Developement · Currently Freelancing</em>
+  <em>Student · Learning Full-Stack Development · Freelancer</em>
 </p>
 
 <p align="center">
@@ -14,17 +14,12 @@
   <a href="mailto:samratnagarkoti1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://samratnagarkoti.xyz"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
-</p>
 
 ---
 
 ## 🟪 About Me
 
-I am a student passionate about building things for the web.
-
-I work with **front-end and back-end** technologies, always exploring **clean architecture**, **code organization**, and **user experience**.
-
-I'm currently learning full-stack web development alongside **Python**, **Java**, and **databases** — with the goal of building real-world projects and contributing to open source.
+I am a student currently learning full-stack development and visual arts, specifically sketching. Most of my technical skills are still in the learning phase as I continue my education. I also take on freelance work and have a strong love for both arts and coding.
 
 ---
 
@@ -36,12 +31,14 @@ I'm currently learning full-stack web development alongside **Python**, **Java**
 </p>
 
 <p align="center">
-  <code>💻 MacBook M2 Air</code> &nbsp;·&nbsp; <code>🐧 Dell Inspiron</code>
+  <code>💻 MacBook M2 Air</code> &nbsp;·&nbsp; <code>📱 iPhone Xs</code> &nbsp;·&nbsp; <code>🎧 AirPods Pro 2</code> &nbsp;·&nbsp; <code>⌚ Huawei Band 7</code> &nbsp;·&nbsp; <code>🐧 Dell Inspiron</code>
 </p>
 
 ---
 
-## 🟪 Tech Stack
+## 🟪 Tech Stack (Currently Learning)
+
+As a student, I am actively exploring and practicing with the following technologies:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,php" alt="Languages" />
@@ -54,6 +51,14 @@ I'm currently learning full-stack web development alongside **Python**, **Java**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Tools & Databases" />
 </p>
+
+---
+
+## 🟪 Experience & Projects
+
+- **MCNP Network (Minecraft Nepal Network)** - Administrator, Developer, and Discord Moderator for a non-profit gaming group.
+- **Volunteer** - Social service camp in Sindhupalchok, helping with school cleaning and donations.
+- **Projects** - Personal Portfolio Website, "Garden Of Words" replica, and currently building the Nameless School Web Template.
 
 ---
 
